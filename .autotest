@@ -1,0 +1,5 @@
+require 'autotest/growl'
+require 'redgreen/autotest'
+require 'autotest/fsevent'
+require "test_notifier/autotest"
+
